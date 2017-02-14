@@ -1,8 +1,6 @@
 # BlackJack
 *Simple RESTful HTTP API that uses JSON messages for Backend Blackjack game*
 
-### Note: There are currently problems with the current version, so please reports any bugs to cxchan@ualberta.ca
-
 ## Ingredients
 
 - [Ubuntu 14.04 "trusty" LTS 64bit base image](http://www.ubuntu.com/)
@@ -113,4 +111,4 @@ curl localhost:8000/blackjack21/addFund -d 'amount=100'
 
 - Param for the Hit or Stand apis have to be exacly "Hit" or "Stand". Otherwise It will crash the game.
 - Add split and double down methods.
-- Need to do more Unit Testing 
+- Need to do more Unit Testing
