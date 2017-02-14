@@ -13,7 +13,7 @@
 
 - [github.com/kardianos/govendor](https://github.com/kardianos/govendor), Go vendor tool that works with the standard vendor file.
 
-## Setup and Usage
+## Run and Usage
 
 #### Clone the github repository:
 
