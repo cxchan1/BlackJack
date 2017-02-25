@@ -1,6 +1,9 @@
 # BlackJack
 *Simple RESTful HTTP API that uses JSON messages for Backend Blackjack game*
 
+## Links
+http://documentup.com/cxchan1/BlackJack
+
 ## Ingredients
 
 - [Ubuntu 14.04 "trusty" LTS 64bit base image](http://www.ubuntu.com/)
